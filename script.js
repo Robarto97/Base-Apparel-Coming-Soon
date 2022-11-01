@@ -1,4 +1,4 @@
-const button = document.querySelector("button");
+const button = document.querySelector("#submit");
 const errorMsg = document.querySelector("#error-message");
 const errorImg = document.querySelector("#error");
 const input = document.querySelector("#email");
